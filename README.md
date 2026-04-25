@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 </h1>
 <div align="center">
   <a href="https://jianhua1996.github.io/vitepress-blog/" target="_blank"><img src="https://img.shields.io/badge/🌐-个人博客-6366f1?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/jianhua-1996" target="_blank"><img src="https://img.shields.io/github/followers/jianhua-1996?label=👥%20Followers&color=a855f7&style=flat-square" /></a>
-  <img src="https://img.shields.io/badge/👀-Profile%20Views-6366f1?style=flat-square&logo=github" />
+  <a href="https://github.com/jianhua-1996" target="_blank"><img src="https://img.shields.io/github/followers/jianhua-1996?label=Followers&color=a855f7&style=flat-square" /></a>
 </div>
 
 <picture>
