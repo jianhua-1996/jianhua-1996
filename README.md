@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=gradient&text=Welcome&desc=It's%20jianhua1996's%20GitHub%20profile&fontAlignY=45&descAlignY=68&textBg=false&fontSize=75&animation=fadeIn&reversal=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20I'm%20jianhua1996&desc=Frontend%20Developer%20%26%20Open%20Source%20Enthusiast&fontAlignY=40&descAlignY=65&textBg=false&fontSize=70&animation=fadeIn&reversal=false&customColorList=23,6366f1,8b5cf6,a855f7,d946ef,ec4899,f43f5e" />
 </div>
 <div align="center">
-  <a href="https://jianhua1996.github.io/vitepress-blog/" target="_blank"><img src="https://img.shields.io/badge/Website-博客-a97bff" /></a>
-  <img src="https://komarev.com/ghpvc/?username=jianhua1996&label=Views&color=e14e1d&style=flat" />
+  <a href="https://jianhua1996.github.io/vitepress-blog/" target="_blank"><img src="https://img.shields.io/badge/🌐-个人博客-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=jianhua1996&label=👀%20Profile%20Views&color=a855f7&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/jianhua1996?label=👥%20Followers&color=ec4899&style=flat-square" />
 </div>
 
 <picture>
