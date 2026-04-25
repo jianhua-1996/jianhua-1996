@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=6366f1&height=80&lines=Hello%20I'm%20jianhua1996;Frontend%20Developer%20%26%20Open%20Source%20Enthusiast&width=500" />
+</h1>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20I'm%20jianhua1996&desc=Frontend%20Developer%20%26%20Open%20Source%20Enthusiast&fontAlignY=40&descAlignY=65&textBg=false&fontSize=70&animation=fadeIn&reversal=false&customColorList=23,6366f1,8b5cf6,a855f7,d946ef,ec4899,f43f5e" />
-</div>
-<div align="center">
-  <a href="https://jianhua1996.github.io/vitepress-blog/" target="_blank"><img src="https://img.shields.io/badge/🌐-个人博客-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=jianhua1996&label=👀%20Profile%20Views&color=a855f7&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/jianhua1996?label=👥%20Followers&color=ec4899&style=flat-square" />
+  <a href="https://jianhua1996.github.io/vitepress-blog/" target="_blank"><img src="https://img.shields.io/badge/🌐-个人博客-6366f1?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/jianhua-1996" target="_blank"><img src="https://img.shields.io/github/followers/jianhua-1996?label=👥%20Followers&color=a855f7&style=flat-square" /></a>
+  <img src="https://img.shields.io/badge/👀-Profile%20Views-6366f1?style=flat-square&logo=github" />
 </div>
 
 <picture>
@@ -44,15 +44,15 @@ Here are some ideas to get you started:
           <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"></a>  
           <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"></a>  
           <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50"></a>  
-          <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50"></a>  
-          <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50"></a>  
-          <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"></a>  
-          <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"></a>  
+          <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50"></a> 
+          <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50"></a>
+          <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"></a>
+          <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"></a>
         </div>
       </p>
     </td>
     <td>
-      <img width="485" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianhua1996&theme=ambient_gradient&hide_border=true&layout=compact&locale=cn&bg_color=45,FF6B35,FFA07A" />
+      <img width="485" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianhua1996&theme=ambient_gradient&hide_border=true&layout=compact&locale=cn&bg_color=45,bd93f9,6272a4" />
     </td>
   </tr>
   <tr>
